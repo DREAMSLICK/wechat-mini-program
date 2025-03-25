@@ -1,0 +1,11 @@
+{
+    "pages": [
+        "pages/home/home",
+        "pages/second/second"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#ff0000",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "小程序 Demo"
+    }
+}
