@@ -1,0 +1,1 @@
+This is hands-on repository for wechat mini program
